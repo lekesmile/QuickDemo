@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cardDiv {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  height: 300px;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.bodyTest {
+  color: rgb(36, 28, 28);
+  font-size: 16px;
+}
